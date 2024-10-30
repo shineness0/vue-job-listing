@@ -1,7 +1,3 @@
-# Vue Jobs Project (YouTube)
-
-This is the jobs listing project from the [YouTube crash course](https://www.youtube.com/watch?v=VeNfHj6MhgA).
-
 <img src="public/screen.png" />
 
 ## Usage
